@@ -40,7 +40,7 @@ Image.propTypes = {
 };
 
 Image.defaultProps = {
-  alt: null,
+  alt: "null", // to prevent error
 };
 
 export default Image;

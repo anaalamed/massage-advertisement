@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Gatsyby Startbootstrap Agency",
+  title: "ויקטור החיים הטובים",
   keywords: [
     "gatsby",
     "gatsbyjs",
@@ -14,8 +14,8 @@ module.exports = {
   author: "thundermiracle",
   trackingId: "UA-119418003-5",
   defaultLang: "en",
-  langTextMap: {
-    en: "English",
-    ja: "日本語",
-  },
+  // langTextMap: {
+  //   en: "English",
+  //   ja: "日本語",
+  // },
 };

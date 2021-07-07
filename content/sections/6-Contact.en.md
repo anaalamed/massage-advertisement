@@ -1,7 +1,9 @@
 ---
-anchor: "Contact"
-header: "Let's Get In Touch!"
-subheader: "Ready to start your next project with us? Give us a call or send us an email and we will get back to you as soon as possible!"
-telephone: 03-0000-0001
-email: contact@yourwebsite.com
+anchor: "ליצירת קשר"
+header: "ליצירת קשר"
+subheader: ""
+telephone: 054-557-9847
+email: levivictor@gmail.com
+instagram: dgbdg
+facebook: vsdsdvds
 ---

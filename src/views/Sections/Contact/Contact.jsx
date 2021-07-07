@@ -10,28 +10,43 @@ const Contact = ({ className, frontmatter }) => {
     return null;
   }
 
-  const { anchor, header, subheader, telephone, email } = frontmatter;
+  const { anchor, header, subheader, telephone, email, instagram, facebook } = frontmatter;
+  console.log(facebook); // undefined
 
   return (
     <PageSection className={className} id={anchor}>
       <Row className="justify-content-center">
         <Col lg={8} className="text-center">
-          <h2 className="mt-0">{header}</h2>
-          <hr className="divider my-4" />
+          <h3 className="mt-0">{header}</h3>
+          <hr className="divider my-3" />
           <p className="text-muted mb-5">{subheader}</p>
         </Col>
       </Row>
       <Row>
-        <Col lg={4} className="ml-auto text-center">
+        <Col lg={3} className="auto text-center">
           <Icon iconName="PhoneIcon" size="3x" className="text-muted mb-3" />
           <a className="d-block" href={`tel:${telephone}`}>
             {telephone}
           </a>
         </Col>
-        <Col lg={4} className="mr-auto text-center">
+        <Col lg={3} className="auto text-center">
           <Icon iconName="EnvelopIcon" size="3x" className="text-muted mb-3" />
           <a className="d-block" href={`mailto:${email}`}>
             {email}
+          </a>
+        </Col>
+
+        <Col lg={3} className="auto text-center">
+          <Icon iconName="InstagramIcon" size="3x" className="text-muted mb-3" />
+          <a className="d-block" href="#">
+            {instagram}
+          </a>
+        </Col>
+
+        <Col lg={3} className="auto text-center">
+          <Icon iconName="FacebookIcon" size="3x" className="text-muted mb-3" />
+          <a className="d-block" href="#">
+            {facebook}
           </a>
         </Col>
       </Row>

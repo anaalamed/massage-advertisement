@@ -1,4 +1,4 @@
----
+<!-- ---
 anchor: "Team"
 header: "Our Amazing Team"
 subheader: "Lorem ipsum dolor sit amet consectetur."
@@ -35,4 +35,4 @@ teamMember: [
     }
   },
 ]
----
+--- -->

@@ -36,4 +36,4 @@ Clients.defaultProps = {
   frontmatter: null,
 };
 
-export default Clients;
+// export default Clients;

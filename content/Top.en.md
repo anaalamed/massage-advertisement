@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To My Studio!"
+header: "ברוכים הבאים לסטודיו שלי "
+subheader: ""
 imageFileName: "victor2"
-jumpToAnchor: "Services"
-jumpToAnchorText: "Tell Me More"
+jumpToAnchor: "שירותים"
+jumpToAnchorText: " לפרטים נוספים"
 ---

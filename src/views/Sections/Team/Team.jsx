@@ -51,4 +51,4 @@ Team.defaultProps = {
   frontmatter: null,
 };
 
-export default Team;
+// export default Team;

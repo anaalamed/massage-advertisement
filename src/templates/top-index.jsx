@@ -68,6 +68,7 @@ export const query = graphql`
             linkedin
             medium
             twitter
+            instagram
           }
           subheader
           teamMember {

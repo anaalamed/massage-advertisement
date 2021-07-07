@@ -20,22 +20,24 @@ const TeamMember = ({
   const mediumPart = medium ? <SocialIcons.Medium userName={medium} /> : null;
 
   return (
-    <div className="team-member">
-      <Image
-        className="mx-auto circle rounded-circle"
-        fileName={imageFileName}
-        alt={imageAlt || header || subheader}
-      />
-      <h4>{header}</h4>
-      <p className="text-muted">{subheader}</p>
-      <div>
-        {twitterPart}
-        {facebookPart}
-        {linkedinPart}
-        {githubPart}
-        {mediumPart}
-      </div>
-    </div>
+    <div>a</div>
+
+    // <div className="team-member">
+    //   <Image
+    //     className="mx-auto circle rounded-circle"
+    //     fileName={imageFileName}
+    //     alt={imageAlt || header || subheader}
+    //   />
+    //   <h4>{header}</h4>
+    //   <p className="text-muted">{subheader}</p>
+    //   <div>
+    //     {twitterPart}
+    //     {facebookPart}
+    //     {linkedinPart}
+    //     {githubPart}
+    //     {mediumPart}
+    //   </div>
+    // </div>
   );
 };
 
