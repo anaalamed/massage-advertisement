@@ -55,7 +55,7 @@ const PortfolioItem = ({
       <PortfolioDetailDialog
         show={showDetail}
         onHide={handleHideDetail}
-        imageFileName={imageFileNameDetail || imageFileName}
+        imageFileName={imageFileName}
         imageAlt={imageAltDetail || imageAlt}
         header={header}
         subheader={subheader}
