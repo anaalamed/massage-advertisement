@@ -25,7 +25,9 @@ module.exports = {
         background_color: "#ffffff",
         theme_color: "#fed136",
         display: "minimal-ui",
-        icon: "content/assets/images/rfui",
+        // icon: "content/assets/images/rfui.png",
+        icon: "content/assets/images/stones.jpeg",
+
       },
     },
     "gatsby-transformer-remark",
