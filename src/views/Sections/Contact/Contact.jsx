@@ -11,7 +11,6 @@ const Contact = ({ className, frontmatter }) => {
   }
 
   const { anchor, header, subheader, telephone, email, instagram, facebook } = frontmatter;
-  console.log(facebook); // undefined
 
   return (
     <PageSection className={className} id={anchor}>
@@ -31,21 +30,21 @@ const Contact = ({ className, frontmatter }) => {
         </Col>
         <Col lg={3} className="auto text-center">
           <Icon iconName="EnvelopIcon" size="3x" className="text-muted mb-3" />
-          <a className="d-block" href={`mailto:${email}`}>
+          <a className="d-block" rel="noreferrer" target="_blank" href={`mailto:${email}`}>
             {email}
           </a>
         </Col>
 
         <Col lg={3} className="auto text-center">
           <Icon iconName="InstagramIcon" size="3x" className="text-muted mb-3" />
-          <a className="d-block" href="#">
+          <a className="d-block" rel="noreferrer" target="_blank" href="https://www.instagram.com/levivictor/">
             {instagram}
           </a>
         </Col>
 
         <Col lg={3} className="auto text-center">
           <Icon iconName="FacebookIcon" size="3x" className="text-muted mb-3" />
-          <a className="d-block" href="#">
+          <a className="d-block" rel="noreferrer" target="_blank" href="https://www.facebook.com/profile.php?id=100003360483491">
             {facebook}
           </a>
         </Col>

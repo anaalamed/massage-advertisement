@@ -1,34 +1,22 @@
 ---
 anchor: "עליי"
 header: "עליי"
-subheader: "אופציונלי.... "
+subheader: "הדרך שלי"
 timeline: [
   {
-    imageFileName: "about/1.jpg",
-    header: "2009-2011",
-    subheader: "Our Humble Beginnings",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    imageFileName: "spaKesar1.jpeg",
+    header: "2020-2021",
+    subheader: "ספא קיסר",
+    content: " ספא טיפולים מפנקים בקיסריה "
   },
   {
-    imageFileName: "about/2.jpg",
-    header: "March 2011",
-    subheader: "An Agency is Born",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    imageFileName: "hameyGaash.jpeg",
+    header: "2021",
+    subheader: "חמי געש",
+    content: "ספא מרפא חמי געש"
   },
-  # {
-  #   imageFileName: "about/3.jpg",
-  #   header: "December 2012",
-  #   subheader: "Transition to Full Service",
-  #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  # },
-  # {
-  #   imageFileName: "about/4.jpg",
-  #   header: "July 2014",
-  #   subheader: "Phase Two Expansion",
-  #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  # },
   {
-    imageContent: "Be Part\r\nOf Our\r\nStory!"
+    imageContent: "תבואו\r\nלהתפנק\r\n אצלי"
   }
 ]
 ---

@@ -27,11 +27,11 @@ const Footer = ({ frontmatter }) => {
           </Col>
           <Col lg={3} className="my-3 my-lg-0">
             {twitter ? <SocialIcons.Twitter userName={twitter} /> : null}
-            {facebook ? <SocialIcons.Facebook userName={facebook} /> : null}
+            {/* {facebook ? <SocialIcons.Facebook userName={facebook} /> : null} */}
             {linkedin ? <SocialIcons.Linkedin userName={linkedin} /> : null}
             {github ? <SocialIcons.Github userName={github} /> : null}
             {medium ? <SocialIcons.Medium userName={medium} /> : null}
-            {instagram ? <SocialIcons.Instagram userName={instagram} /> : null}
+            {/* {instagram ? <SocialIcons.Instagram userName={instagram} /> : null} */}
 
           </Col>
           <Col lg={4} className="text-lg-right">

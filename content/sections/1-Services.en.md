@@ -1,31 +1,31 @@
 ---
 anchor: "שירותים"
 header: "שירותים"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+subheader: "השירותים הניתנים בסטודיו שלי"
 services: [
   {
     # iconName: "ShoppingCartIcon",
     imageFileName: "stones",
     header: "אבנים חמות",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "טיפול אבנים חמות משחרר במיוחד"
   },
     {
       # iconName: "LockIcon",
     imageFileName: "cups",
     header: "כוסות רוח ",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "טיפול כוסות רוח מושלם, מרפא שרירים,  משחרר "
   },
   {
     # iconName: "LaptopIcon",
     imageFileName: "shvedi",
     header: "עיסוי שוודי  ",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: " עיסוי שוודי מפנק במיוחד"
   },
     {
     # iconName: "LaptopIcon",
     imageFileName: "rfui",
     header: "עיסוי רפואי ",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "עיסוי רפואי, עוזר לכאבי שרירים, מרפא, משחרר"
   }
 ]
 ---

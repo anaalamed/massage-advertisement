@@ -42,6 +42,8 @@ export const query = graphql`
           copyright
           header
           email
+          facebook
+          instagram
           imageFileName
           jumpToAnchor
           jumpToAnchorText
