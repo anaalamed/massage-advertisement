@@ -52,7 +52,7 @@ const PortfolioItem = ({
           {subheader ? <p className="text-muted">{subheader}</p> : null}
         </div>
       </Col>
-      <PortfolioDetailDialog
+      {/* <PortfolioDetailDialog
         show={showDetail}
         onHide={handleHideDetail}
         imageFileName={imageFileName}
@@ -61,7 +61,7 @@ const PortfolioItem = ({
         subheader={subheader}
         content={content}
         extraInfo={extraInfo}
-      />
+      /> */}
     </>
   );
 };

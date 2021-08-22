@@ -20,7 +20,7 @@ portfolios: [
     imageFileNameDetail: "portfolio/02-full.jpg",
     header: "שחרור",
     subheader: "שוודי",
-    content: "הטיפולים עוצמתיים יותר בטבע. טיפול מרפא מושלם!",
+    content: "הטיפולים עוצמתיים יותר בטבע. טיפול מרפא מושלם",
     extraInfo: [
       "תאריך: יוני 2020", 
       "לקוח: ליאור פדקין",

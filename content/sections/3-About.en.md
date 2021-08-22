@@ -15,6 +15,12 @@ timeline: [
     subheader: "חמי געש",
     content: "ספא מרפא חמי געש"
   },
+    {
+    imageFileName: "studio.jpeg",
+    header: "2021",
+    subheader: "הסטודיו שלי",
+    content: "  סטודיו מפמק "
+  },
   {
     imageContent: "תבואו\r\nלהתפנק\r\n אצלי"
   }

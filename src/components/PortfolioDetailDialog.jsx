@@ -34,7 +34,7 @@ const PortfolioDetailDialog = ({
           alt={imageAlt || header || subheader}
         />
         <p>{content}</p>
-        {extraInfo}
+        {/* {extraInfo} */}
       </Modal.Body>
       <Modal.Footer>
         <div className="mx-auto">
